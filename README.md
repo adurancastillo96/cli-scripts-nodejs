@@ -7,7 +7,7 @@ Usa sus diferentes métodos para obtener la siguiente información sobre tu sist
 
 - Nombre del equipo
 - Edición/Versión del sistema operativo
-- Memoria ram total en **GB
+- Memoria ram total en \*\*GB
 
 ![](https://oscarm.tinytake.com/media/16472f3?filename=1718261870512_TinyTake13-06-2024-08-57-31_638538586701702054.png&sub_type=thumbnail_preview&type=attachment&width=731&height=800)
 
@@ -41,7 +41,7 @@ node 3-nickname-generator.js Emma # Debería mostrar por consola "Emma"
 node 3-nickname-generator.js Ian # Debería mostrar por consola "Error: Name too short"
 ```
 
-## ChatGPT Desencadenado:  4-check-dni
+## ChatGPT Desencadenado: 4-check-dni
 
 Hacienda tiene un listado ya preparado de todos los que tienen que pagar en la siguiente declaración de la renta.
 Usa Chat GPT para generar un script que
@@ -59,5 +59,3 @@ node 4-check-dni 27681570N # Debería mostrar por consola algo así como "El con
 Intenta darle más valor a tu script con funcionalidades interesantes. ¿Que debería pasar si el dni no es válido?
 
 Si te animas, [comparte](https://oscarm.tinytake.com/media/1755b80?filename=1745421837041_TinyTake23-04-2025-05-23-53_638810186360894933.png&sub_type=thumbnail_preview&type=attachment&width=1194&height=93) en el canal #labs-help- la forma que has ido usando Chat GPT para conseguir la solución final. La idea es ver cómo usamos la IA para generar soluciones que a priori no sabemos implementar.
-
-
