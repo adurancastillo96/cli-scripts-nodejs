@@ -27,3 +27,13 @@ function nicknameGenerator(name) {
 
   return name.slice(0, 3);
 }
+
+// =============================
+// Código para usar la función
+// ==============================
+
+// Capturamos el nombre pasado por consola
+const nameInput = process.argv[2];
+
+// Llamamos a la función y mostramos el resultado
+console.log(nicknameGenerator(nameInput));

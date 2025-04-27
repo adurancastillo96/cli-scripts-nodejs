@@ -1,4 +1,4 @@
-// Import the os module to access system information
+// Import the os module to access system information - ESM
 import os from 'os';
 
 // Function to convert bytes to gigabytes - ES6
